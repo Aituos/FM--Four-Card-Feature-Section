@@ -51,6 +51,7 @@ main {
 }
 
 .card h2 {
+    margin-top: 0;
     margin-bottom: 0.3rem;
     font-size: 1.3rem;
     color: hsl(234, 12%, 34%);
