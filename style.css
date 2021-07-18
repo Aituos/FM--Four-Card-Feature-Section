@@ -110,6 +110,10 @@ main {
         height: 250px;
     }
 
+    .card img {
+        width: 64px;
+    }
+
     .card-supervisor {
         margin-right: 2rem;
         grid-row: 1 / 3;
